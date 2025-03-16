@@ -1,0 +1,14 @@
+{
+  "skill_gaps": {
+    "missing": {
+      "Technical": [
+        {
+          "skill": "Web3 Development",
+          "priority": "High",
+          "justification": "Critical for developing decentralized applications",
+          "learning_recommendations": "Enroll in online courses"
+        }
+      ]
+    }
+  }
+}
